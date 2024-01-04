@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kashif-hussain-pathan-51a32a25b" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="kashif-hussain-pathan-51a32a25b" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/kashif-hussain-pathan-51a32a25b" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-3.svg" alt="kashif-hussain-pathan-51a32a25b" height="35" width="40" /></a>
 <a href="https://codesandbox.com/kashifhussainpathan" target="blank"><img align="center" src="https://codesandbox.io/_next/image?url=%2Fnew%2Fimages%2Fbrand%2Fcodesandbox-logo.jpg&w=3840&q=75" alt="kashifhussainpathan" height="30" width="40" /></a>
 </p>
 
